@@ -4,7 +4,7 @@
         <description><![CDATA[lchrs]]></description>
         <link>http://lchrs.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 03:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 03:54:11 GMT</lastBuildDate>
         <atom:link href="http://lchrs.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://lchrs.com/2efaa41f-0827-48d8-9494-fd626c67b611/index.html</link>
             <guid isPermaLink="false">2efaa41f-0827-48d8-9494-fd626c67b611</guid>
             <pubDate>Fri, 04 Mar 2016 03:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49d5ba0a-9bcf-4def-8284-bf3f4aedb9d0.jpg">]]></description>
-            <link>http://lchrs.com/b032a503-5667-4a6a-821b-64a75f3298e9/index.html</link>
-            <guid isPermaLink="false">b032a503-5667-4a6a-821b-64a75f3298e9</guid>
-            <pubDate>Fri, 04 Mar 2016 03:27:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
